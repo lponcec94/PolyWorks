@@ -11,12 +11,12 @@ Este repositorio contiene las clases para la capacitación del equipo de Poly Wo
 	
 	Enfoque:
 
-	1. Matriz de correlación 
-	2. Correlación 
-	4. Valores de Betas
-	3. Entrenamiento de modelo
+	1. Matriz de correlación.
+	2. Correlación con relación a la variable dependiente.
+	4. Valores de los coeficientes.
+	3. Entrenamiento de modelo.
 	5. Error | R^2
-	6. Graficando el error
+	6. Graficando el error.
 
 
 ### Semana 2
@@ -41,7 +41,6 @@ Este repositorio contiene las clases para la capacitación del equipo de Poly Wo
 	1. Realizar estandarización a los datos de dos maneras:
 		* z-score
 		* mínimo y máximo
-
 	2. Implementar PCA. 
 	3. Utilizar el método del codo para seleccionar el número óptimo de clusters.
 	4. Utilizar el modelo de KMeans.
@@ -53,9 +52,9 @@ Este repositorio contiene las clases para la capacitación del equipo de Poly Wo
 
 	Enfoque: 
 
-	1. Tendencia y estacionareidad  
-	2. Graficar autocorrelación 
-	3. Test Dickey-Fuller 
+	1. Tendencia y estacionareidad. 
+	2. Graficar autocorrelación.
+	3. Test Dickey-Fuller.
 	4. Predecir el compartamiento de nuestros datos a futuro.
 
 
@@ -79,8 +78,8 @@ Este repositorio contiene las clases para la capacitación del equipo de Poly Wo
 	Enfoque: 
 	
 	1. Selección de características por Recursive Feature Elimination.
-	2. Implementación de Regresión Logística
-	3. Identificación de Outliers con Local Outlier Factor
+	2. Implementación de Regresión Logística.
+	3. Identificación de Outliers con Local Outlier Factor.
 
 
 ### Semana 7
@@ -101,5 +100,5 @@ Este repositorio contiene las clases para la capacitación del equipo de Poly Wo
 
 	Enfoque: 
 	
-	1. Estimador Kaplan Meier
-	2. Modelo de Cox
+	1. Estimador Kaplan Meier.
+	2. Modelo de Cox.
